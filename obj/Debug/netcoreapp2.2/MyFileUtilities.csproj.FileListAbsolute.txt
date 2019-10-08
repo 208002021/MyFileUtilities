@@ -1,0 +1,11 @@
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\bin\Debug\netcoreapp2.2\MyFileUtilities.deps.json
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\bin\Debug\netcoreapp2.2\MyFileUtilities.runtimeconfig.json
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\bin\Debug\netcoreapp2.2\MyFileUtilities.runtimeconfig.dev.json
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\bin\Debug\netcoreapp2.2\MyFileUtilities.dll
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\bin\Debug\netcoreapp2.2\MyFileUtilities.pdb
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\obj\Debug\netcoreapp2.2\MyFileUtilities.csprojAssemblyReference.cache
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\obj\Debug\netcoreapp2.2\MyFileUtilities.csproj.CoreCompileInputs.cache
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\obj\Debug\netcoreapp2.2\MyFileUtilities.AssemblyInfoInputs.cache
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\obj\Debug\netcoreapp2.2\MyFileUtilities.AssemblyInfo.cs
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\obj\Debug\netcoreapp2.2\MyFileUtilities.dll
+C:\Users\208002021\VSCode\Workspaces\MyFileUtilities\obj\Debug\netcoreapp2.2\MyFileUtilities.pdb
